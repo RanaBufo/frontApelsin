@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "D:\\lab3\\alina",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
