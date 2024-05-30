@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XIH3uz+CQVChU6RWZgOMc2u14z4aF/+KinVouev8Nj9jUzxAMlngixvgLpqMStX9nDLC+DljRIviOuGDwWDOQ==",
+  "dgSpecHash": "0+X6vGDFG5vJjMu9DfViIJWAVY8POadPlVadbD/uRnbwGK6skhNxqpU/Xbd424gmqYi+zywM8cvxf/FoWkSSJQ==",
   "success": true,
-  "projectFilePath": "D:\\lab3\\alina\\alina.csproj",
+  "projectFilePath": "D:\\frontApelsin\\lab3\\alina\\alina.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GuraL\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\GuraL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

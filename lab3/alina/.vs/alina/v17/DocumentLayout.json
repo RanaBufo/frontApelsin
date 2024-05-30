@@ -1,105 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\lab3\\alina\\",
+  "WorkspaceRootPath": "D:\\frontApelsin\\lab3\\alina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\controller\\registratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\registratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\migrations\\20240521183450_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:migrations\\20240521183450_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\alina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:alina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\model\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:model\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\bd\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:bd\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\bd\\roledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:bd\\roledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\bd\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:bd\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\handlers\\customliftimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:handlers\\customliftimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\services\\validservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\validservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\model\\useresrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\controller\\registratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\registratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\migrations\\20240521183450_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:migrations\\20240521183450_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\alina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:alina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\model\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:model\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\bd\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:bd\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\bd\\roledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:bd\\roledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\bd\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:bd\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\handlers\\customliftimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:handlers\\customliftimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\services\\validservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:services\\validservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\model\\useresrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:model\\useresrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\model\\requestidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\model\\requestidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:model\\requestidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\model\\postnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\model\\postnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:model\\postnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\model\\getidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\model\\getidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:model\\getidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\lab3\\alina\\model\\contactrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|d:\\frontapelsin\\lab3\\alina\\model\\contactrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{510012FF-E3B3-419F-8C8D-D5F58EFC5FEF}|alina.csproj|solutionrelative:model\\contactrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "20240521183450_new.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Migrations\\20240521183450_new.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Migrations\\20240521183450_new.cs",
               "RelativeDocumentMoniker": "Migrations\\20240521183450_new.cs",
-              "ToolTip": "D:\\lab3\\alina\\Migrations\\20240521183450_new.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Migrations\\20240521183450_new.cs",
               "RelativeToolTip": "Migrations\\20240521183450_new.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,23 +138,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\lab3\\alina\\appsettings.json",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\lab3\\alina\\appsettings.json",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-21T18:33:55.748Z"
+              "WhenOpened": "2024-05-21T18:33:55.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "RoleDB.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\BD\\RoleDB.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\BD\\RoleDB.cs",
               "RelativeDocumentMoniker": "BD\\RoleDB.cs",
-              "ToolTip": "D:\\lab3\\alina\\BD\\RoleDB.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\BD\\RoleDB.cs",
               "RelativeToolTip": "BD\\RoleDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +163,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ContactDB.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\BD\\ContactDB.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\BD\\ContactDB.cs",
               "RelativeDocumentMoniker": "BD\\ContactDB.cs",
-              "ToolTip": "D:\\lab3\\alina\\BD\\ContactDB.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\BD\\ContactDB.cs",
               "RelativeToolTip": "BD\\ContactDB.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UserDB.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\BD\\UserDB.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\BD\\UserDB.cs",
               "RelativeDocumentMoniker": "BD\\UserDB.cs",
-              "ToolTip": "D:\\lab3\\alina\\BD\\UserDB.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\BD\\UserDB.cs",
               "RelativeToolTip": "BD\\UserDB.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,24 +187,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RegistrateController.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Controller\\RegistrateController.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Controller\\RegistrateController.cs",
               "RelativeDocumentMoniker": "Controller\\RegistrateController.cs",
-              "ToolTip": "D:\\lab3\\alina\\Controller\\RegistrateController.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Controller\\RegistrateController.cs",
               "RelativeToolTip": "Controller\\RegistrateController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T18:27:54.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CustomLiftimeValidator.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Handlers\\CustomLiftimeValidator.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Handlers\\CustomLiftimeValidator.cs",
               "RelativeDocumentMoniker": "Handlers\\CustomLiftimeValidator.cs",
-              "ToolTip": "D:\\lab3\\alina\\Handlers\\CustomLiftimeValidator.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Handlers\\CustomLiftimeValidator.cs",
               "RelativeToolTip": "Handlers\\CustomLiftimeValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "JWTSettings.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Settings\\JWTSettings.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Settings\\JWTSettings.cs",
               "RelativeDocumentMoniker": "Settings\\JWTSettings.cs",
-              "ToolTip": "D:\\lab3\\alina\\Settings\\JWTSettings.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Settings\\JWTSettings.cs",
               "RelativeToolTip": "Settings\\JWTSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ValidService.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Services\\ValidService.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Services\\ValidService.cs",
               "RelativeDocumentMoniker": "Services\\ValidService.cs",
-              "ToolTip": "D:\\lab3\\alina\\Services\\ValidService.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Services\\ValidService.cs",
               "RelativeToolTip": "Services\\ValidService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,24 +236,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Services\\UserService.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "D:\\lab3\\alina\\Services\\UserService.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T18:27:07.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "RoleService.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Services\\RoleService.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Services\\RoleService.cs",
               "RelativeDocumentMoniker": "Services\\RoleService.cs",
-              "ToolTip": "D:\\lab3\\alina\\Services\\RoleService.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Services\\RoleService.cs",
               "RelativeToolTip": "Services\\RoleService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "UseresRequestModel.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Model\\UseresRequestModel.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Model\\UseresRequestModel.cs",
               "RelativeDocumentMoniker": "Model\\UseresRequestModel.cs",
-              "ToolTip": "D:\\lab3\\alina\\Model\\UseresRequestModel.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Model\\UseresRequestModel.cs",
               "RelativeToolTip": "Model\\UseresRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,9 +275,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "RequestIdModel.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Model\\RequestIdModel.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Model\\RequestIdModel.cs",
               "RelativeDocumentMoniker": "Model\\RequestIdModel.cs",
-              "ToolTip": "D:\\lab3\\alina\\Model\\RequestIdModel.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Model\\RequestIdModel.cs",
               "RelativeToolTip": "Model\\RequestIdModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,11 +285,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ProductRequestModel.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Model\\ProductRequestModel.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Model\\ProductRequestModel.cs",
               "RelativeDocumentMoniker": "Model\\ProductRequestModel.cs",
-              "ToolTip": "D:\\lab3\\alina\\Model\\ProductRequestModel.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Model\\ProductRequestModel.cs",
               "RelativeToolTip": "Model\\ProductRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,9 +299,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "PostNameModel.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Model\\PostNameModel.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Model\\PostNameModel.cs",
               "RelativeDocumentMoniker": "Model\\PostNameModel.cs",
-              "ToolTip": "D:\\lab3\\alina\\Model\\PostNameModel.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Model\\PostNameModel.cs",
               "RelativeToolTip": "Model\\PostNameModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,9 +311,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "GetIdModel.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Model\\GetIdModel.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Model\\GetIdModel.cs",
               "RelativeDocumentMoniker": "Model\\GetIdModel.cs",
-              "ToolTip": "D:\\lab3\\alina\\Model\\GetIdModel.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Model\\GetIdModel.cs",
               "RelativeToolTip": "Model\\GetIdModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,9 +323,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "ContactRequestModel.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Model\\ContactRequestModel.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Model\\ContactRequestModel.cs",
               "RelativeDocumentMoniker": "Model\\ContactRequestModel.cs",
-              "ToolTip": "D:\\lab3\\alina\\Model\\ContactRequestModel.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Model\\ContactRequestModel.cs",
               "RelativeToolTip": "Model\\ContactRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,23 +333,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 1,
               "Title": "RegistrationService.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Services\\RegistrationService.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Services\\RegistrationService.cs",
               "RelativeDocumentMoniker": "Services\\RegistrationService.cs",
-              "ToolTip": "D:\\lab3\\alina\\Services\\RegistrationService.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Services\\RegistrationService.cs",
               "RelativeToolTip": "Services\\RegistrationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:18:53.082Z"
+              "WhenOpened": "2024-05-21T18:18:53.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Services\\TokenService.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Services\\TokenService.cs",
-              "ToolTip": "D:\\lab3\\alina\\Services\\TokenService.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Services\\TokenService.cs",
               "RelativeToolTip": "Services\\TokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,11 +358,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Controller\\UserController.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Controller\\UserController.cs",
               "RelativeDocumentMoniker": "Controller\\UserController.cs",
-              "ToolTip": "D:\\lab3\\alina\\Controller\\UserController.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Controller\\UserController.cs",
               "RelativeToolTip": "Controller\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,47 +370,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Controller\\LoginController.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Controller\\LoginController.cs",
               "RelativeDocumentMoniker": "Controller\\LoginController.cs",
-              "ToolTip": "D:\\lab3\\alina\\Controller\\LoginController.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Controller\\LoginController.cs",
               "RelativeToolTip": "Controller\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:17:55.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Controller\\RoleController.cs",
-              "RelativeDocumentMoniker": "Controller\\RoleController.cs",
-              "ToolTip": "D:\\lab3\\alina\\Controller\\RoleController.cs",
-              "RelativeToolTip": "Controller\\RoleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:16:06.488Z"
+              "WhenOpened": "2024-05-21T18:17:55.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "ApplicationContext.cs",
-              "ToolTip": "D:\\lab3\\alina\\ApplicationContext.cs",
-              "RelativeToolTip": "ApplicationContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA9wCMAAAABAAAA",
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Controller\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controller\\RoleController.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Controller\\RoleController.cs",
+              "RelativeToolTip": "Controller\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:14:18.28Z"
+              "WhenOpened": "2024-05-21T18:16:06.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ApplicationContext.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\ApplicationContext.cs",
+              "RelativeToolTip": "ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:14:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "alina.csproj",
-              "DocumentMoniker": "D:\\lab3\\alina\\alina.csproj",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\alina.csproj",
               "RelativeDocumentMoniker": "alina.csproj",
-              "ToolTip": "D:\\lab3\\alina\\alina.csproj",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\alina.csproj",
               "RelativeToolTip": "alina.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -416,15 +421,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\lab3\\alina\\Program.cs",
+              "DocumentMoniker": "D:\\frontApelsin\\lab3\\alina\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\lab3\\alina\\Program.cs",
+              "ToolTip": "D:\\frontApelsin\\lab3\\alina\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAIAwwCMAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:02:31.365Z"
+              "WhenOpened": "2024-05-21T18:02:31.365Z",
+              "EditorCaption": ""
             }
           ]
         }

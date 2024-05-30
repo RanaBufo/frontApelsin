@@ -19,24 +19,34 @@ namespace HandCrafter.Controllers
         public IResult LogIn(ContactRequestModel contact)
         {
             int id = _registrationService.LoginService(contact);
-            if(id == 0)
+            if (id == 0)
             {
                 return Results.BadRequest();
             }
             string token = _tokenService.GetRefreshTokenService(120, id);
-            return Results.Json(token);
+            var successLogin = new
+            {
+                Id = id,
+                Token = token
+            };
+            return Results.Json(successLogin);
         }
-        
+
         [HttpPost("Registration")]
-        public string Registration(UseresRequestModel newUser)
+        public IResult Registration(UseresRequestModel newUser)
         {
             _userService.AddUserService(newUser);
             int id = _registrationService.RegistrationUserService(newUser.Contact);
-            string token  = _tokenService.GetRefreshTokenService(120, id);
-            return token;
+            string token = _tokenService.GetRefreshTokenService(120, id);
+            var successLogin = new
+            {
+                Id = id,
+                Token = token
+            };
+            return Results.Json(successLogin);
         }
 
-        
+
 
 
     }

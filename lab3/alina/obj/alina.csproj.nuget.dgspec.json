@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lab3\\alina\\alina.csproj": {}
+    "D:\\frontApelsin\\lab3\\alina\\alina.csproj": {}
   },
   "projects": {
-    "D:\\lab3\\alina\\alina.csproj": {
+    "D:\\frontApelsin\\lab3\\alina\\alina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lab3\\alina\\alina.csproj",
+        "projectUniqueName": "D:\\frontApelsin\\lab3\\alina\\alina.csproj",
         "projectName": "alina",
-        "projectPath": "D:\\lab3\\alina\\alina.csproj",
+        "projectPath": "D:\\frontApelsin\\lab3\\alina\\alina.csproj",
         "packagesPath": "C:\\Users\\GuraL\\.nuget\\packages\\",
-        "outputPath": "D:\\lab3\\alina\\obj\\",
+        "outputPath": "D:\\frontApelsin\\lab3\\alina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programm\\VS\\Other\\NuGetPackages"

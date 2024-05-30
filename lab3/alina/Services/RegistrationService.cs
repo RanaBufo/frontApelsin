@@ -11,10 +11,10 @@ namespace alina.Services
         public int LoginService(ContactRequestModel contact)
         {
             var users = _db.Contacts
-                .Where(c => c.Password == contact.Password)
-                .Where(c => contact.Email == c.Email || contact.Phone == c.Phone)
-                .ToList();
-            if(users.Count == 0) { 
+                 .Where(c => c.Password == contact.Password)
+                 .Where(c => contact.Email == c.Email || contact.Phone == c.Phone || contact.Phone == c.Email || contact.Email == c.Phone)
+                 .ToList();
+            if (users.Count == 0) { 
                 return 0;
             }
             int id = users[0].IdUser;
